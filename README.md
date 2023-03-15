@@ -13,3 +13,5 @@ After battling for a long time with GitHub desktop, I can now do workflows from 
 
 ![The Image I uploaded](http://rustyb.github.io/lesotho_manual/img/fingal.png)
 [MapLesotho Manual](http://rustyb.github.io/lesotho_manual/)
+
+I have added a *new branch*. I will then merger it to the Main Brach and delete the intitial branch
