@@ -9,7 +9,7 @@ After battling for a long time with GitHub desktop, I can now do workflows from 
 
 ### H3 The Third Largest Text
 
-[Another Image](https://github.com/Nuts2001/Intro-to-GitHub/blob/main/VIRB0178.jpg)
+![Another Image](https://github.com/Nuts2001/Intro-to-GitHub/blob/main/VIRB0178.jpg)
 
 ![The Image I uploaded](http://rustyb.github.io/lesotho_manual/img/fingal.png)
 [MapLesotho Manual](http://rustyb.github.io/lesotho_manual/)
